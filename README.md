@@ -4,7 +4,7 @@
 
 **ET Intelligence** is a multi-agent AI financial ecosystem designed to decentralize institutional-grade market research for the retail investor. Built for the **ET AI Hackathon 2026**, this platform transforms fragmented data—from SEBI filings and NSE technicals to complex tax regimes—into a single, actionable intelligence layer.
 
-🔗 **[LIVE DEPLOYMENT](https://et-ai-hackathon-2026.vercel.app/)** | 🎬 **[DEMO VIDEO](https://www.loom.com/share/d3df279fbe5043f9856eb41bdfa2f227)**
+🔗 **[LIVE APP](https://et-ai-hackathon-2026-rtpx.vercel.app/)** | 🎬 **[DEMO VIDEO](https://www.loom.com/share/d3df279fbe5043f9856eb41bdfa2f227)**
 
 ---
 
